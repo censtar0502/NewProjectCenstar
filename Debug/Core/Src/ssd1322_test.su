@@ -1,0 +1,8 @@
+../Core/Src/ssd1322_test.c:15:13:SSD1322_WriteCommand	16	static
+../Core/Src/ssd1322_test.c:23:13:SSD1322_WriteData	16	static
+../Core/Src/ssd1322_test.c:31:6:SSD1322_Reset	8	static
+../Core/Src/ssd1322_test.c:39:6:SSD1322_Init	32	static
+../Core/Src/ssd1322_test.c:109:6:SSD1322_SetWindow	32	static
+../Core/Src/ssd1322_test.c:123:6:SSD1322_FillWhite	144	static
+../Core/Src/ssd1322_test.c:133:6:SSD1322_FillGray	160	static
+../Core/Src/ssd1322_test.c:145:6:SSD1322_TestGradient	152	static

@@ -1,0 +1,2 @@
+../Core/Src/u8x8_stm32_hal.c:8:9:u8x8_byte_stm32_hw_spi	6
+../Core/Src/u8x8_stm32_hal.c:38:9:u8x8_gpio_and_delay_stm32	7
